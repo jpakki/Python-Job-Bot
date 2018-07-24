@@ -1,4 +1,4 @@
-# CS Job Bot
+# Python Job Bot
 
 Twitter bot to tweet python related job postings using the Github Jobs API. New jobs are posted every 2 hours while the script is running. Visit the Twitter page at [this link](https://twitter.com/PyJobs4U).
 
